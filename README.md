@@ -1,6 +1,6 @@
 # Exam-Portal
 
-The **Interview Prep App** is a one-stop solution for students and professionals to prepare for technical interviews. It provides categorized mock tests, and helpful resources to build confidence and ace interviews.It Has two dashboards one for admin and one for user .Admin can add, update, delete different mocks, the categories to which these mock test belongs and also questions of those tests. While normal user can attempt those quizzes as well as see the scorecards of their previous attempts.
+The **Interview Prep App** is a one-stop solution for students and professionals to prepare for technical interviews. It provides categorized mock tests, and helpful resources to build confidence and ace interviews.It has two dashboards one for admin and one for user .Admin can add, update, delete different mocks, the categories to which these mock test belongs and also questions of those tests. While normal user can attempt those quizzes as well as see the scorecards of their previous attempts.
 
 ---
 
