@@ -9,7 +9,7 @@ The **Interview Prep App** is a one-stop solution for students and professionals
 - **Frontend**: HTML, CSS, JavaScript, React
 - **Backend**: Java Spring Boot Spring Security Spring JPA
 - **Database**: MySQL
-- **Tools**: Git, GitHub, Tomcat / Spring Boot
+- **Tools**: Git, GitHub, Tomcat 
 
 - Backend API Endpoints <br>
   <img src="https://user-images.githubusercontent.com/56812557/212474245-da2aacec-27f5-4a36-8016-58b99e6906af.png" alt="Backend API Endpoints" width="70%" height="70%" >
